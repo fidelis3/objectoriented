@@ -13,7 +13,7 @@ class LivingBeing{
 class Dog extends LivingBeing implements Animal{
   @override 
   void makeSound(){
-    print('woof!');
+    print('wof!');
   }
 }
 //subclass overriding a method
