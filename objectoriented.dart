@@ -6,7 +6,7 @@ abstract class Animal{
 //base class with inheritance
 class LivingBeing{
   void breathe(){
-    print('Breathing...');
+    print('Breathing..');
   }
 }
 //class implementing an interface
